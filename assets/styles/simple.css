@@ -1,0 +1,33 @@
+body{
+    background-color: brown;
+}
+h1{
+    background-color:blueviolet;
+    text-align:center;
+    text-decoration: double;
+    font-style: italic;
+}
+h2{
+    text-align: center;
+    text-decoration: underline;
+    font-style: oblique;
+}
+h3{
+    font-size: 20px;
+    text-align: center;
+    text-transform: uppercase;
+}
+p{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+}
+a:hover{
+    background-color: aliceblue;
+    border-radius: 18px;
+}
+a{
+    text-shadow: 6px;
+    padding: 10px 15px;
+    margin-bottom: 15px;
+}
